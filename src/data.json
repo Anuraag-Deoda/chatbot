@@ -1,0 +1,113 @@
+{
+    "intents": [
+        {
+            "tag": "time",
+            "patterns": [
+                "What time is it",
+                "What's the time",
+                "time please"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thank you",
+                "Thanks",
+                "Appreciate it",
+                "Grateful",
+                "Cheers"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Anytime!",
+                "Glad I could assist!"
+            ]
+        },
+        {
+            "tag": "howareyou",
+            "patterns": [
+                "How are you?",
+                "How's it going?",
+                "How have you been?",
+                "hey how are you",
+                "yo how have you been",
+                "how's everything going"
+            ],
+            "responses": [
+                "I'm just a program, so I don't have feelings, but I'm functioning optimally!",
+                "I'm running smoothly! How can I assist you today?",
+                "I'm online and ready to help!"
+            ]
+        },
+        {
+            "tag": "capabilities",
+            "patterns": [
+                "What can you do?",
+                "Tell me your capabilities",
+                "What functions do you have?"
+            ],
+            "responses": [
+                "I can answer questions, tell you the time, and even crack a joke or two. Just ask!",
+                "I'm designed to help and provide information. How can I assist you?",
+                "I can recognize and respond to various patterns. Just let me know what you're curious about!"
+            ]
+        },
+        {
+            "tag": "jokes",
+            "patterns": [
+                "Tell me a joke",
+                "Got any jokes?",
+                "Make me laugh"
+            ],
+            "responses": [
+                "Why did the scarecrow win an award? Because he was outstanding in his field!",
+                "Why did the math book look sad? Because it had too many problems.",
+                "Why did the computer keep freezing? It had too many windows open!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "later",
+                "farewell",
+                "bye-bye",
+                "so long",
+                "catch you later",
+                "got to go"
+            ],
+            "responses": [
+                "See you later",
+                "Have a nice day",
+                "Bye",
+                "Goodbye"
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "What's up",
+                "Hey",
+                "Hola",
+                "Howdy",
+                "yo",
+                "howdy"
+            ],
+            "responses": [
+                "Hi",
+                "Hello",
+                "What's up",
+                "Hey",
+                "How can I help",
+                "Hi there",
+                "What can I do for you"
+            ]
+        }
+    ]
+}
